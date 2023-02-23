@@ -1,8 +1,12 @@
-# lawnlp🎺: Say the truth
-### Talk is cheap ,show me the code
-#### Narrating LAW using Python
-
-
+# Python Narrative packages
+- [politicsnlp](https://pypi.org/project/politicsnlp/) for Politics
+- [religionnlp](https://pypi.org/project/religionnlp/) for Religion
+- [lawnlp](https://pypi.org/project/lawnlp/) for Law
+- [economynlp](https://pypi.org/project/economynlp/) for Economy
+- [cpanlp](https://pypi.org/project/cpanlp/) for Business
+## Communicate effectively within a common Law framework
+  
+<img src="https://raw.githubusercontent.com/python-narrative/lawnlp/main/law.jpg" width = "220" height = "100" alt="logo" align=center />
 
 ## Install & Import
 #### Dependencies
